@@ -6,6 +6,8 @@ public class AudioManager : MonoBehaviour
 {
     AudioSource m_AudioSource;
     [SerializeField]UIManager m_UIManager;
+    [SerializeField]AudioClip _rightAnswerFX;
+    [SerializeField] AudioClip _wrongAnswerFX;
 
     private void Awake()
     {
@@ -53,5 +55,17 @@ public class AudioManager : MonoBehaviour
     public void SetAudioVolume(float level)
     {
         m_AudioSource.volume = level;
+    }
+
+    public void PlayAnswerFX(bool right)
+    {
+        if (right)
+        {
+            m_AudioSource.PlayOneShot(_rightAnswerFX);
+        }
+        else
+        {
+            m_AudioSource.PlayOneShot(_wrongAnswerFX);
+        }
     }
 }
