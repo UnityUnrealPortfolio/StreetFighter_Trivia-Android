@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: blankaTrack
+  m_EditorClassIdentifier: 
+  m_GroupName: blankaTrack
+  m_Data:
+    m_SerializedData: []
+  m_GUID: bacdd33533452984393c46b3544f513d
+  m_SerializeEntries:
+  - m_GUID: ce12ef74eebda0640a1e6b318e248167
+    m_Address: Assets/_Aura/Audio/ThemeMusic/blankaTheme.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - blankaTrack
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: c0c5ac6e85780b74385c90a1da7d369f, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 72e91dc59e02c4f4da0a21172b98c1e0, type: 2}
+    - {fileID: 11400000, guid: 4f7654512df6b6f47ba55d6be40b4f82, type: 2}

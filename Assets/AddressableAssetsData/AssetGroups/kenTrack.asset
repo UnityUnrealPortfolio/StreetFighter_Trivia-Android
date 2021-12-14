@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: kenTrack
+  m_EditorClassIdentifier: 
+  m_GroupName: kenTrack
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 3c74af617cdf4b643b85173c6b67aaf0
+  m_SerializeEntries:
+  - m_GUID: 7a683345f4a17e44a99e4e2c6ccf0fb6
+    m_Address: Assets/_Aura/Audio/ThemeMusic/kenTheme.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - kenTrack
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: c0c5ac6e85780b74385c90a1da7d369f, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: f6d4cb6307c529d4c8f3e174cd6d747b, type: 2}
+    - {fileID: 11400000, guid: 49f568c7de08c924eb89e5040b2c785b, type: 2}

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: feilongTrack
+  m_EditorClassIdentifier: 
+  m_GroupName: feilongTrack
+  m_Data:
+    m_SerializedData: []
+  m_GUID: c922d3b45793c79449150b4f6f1b7473
+  m_SerializeEntries:
+  - m_GUID: 81a67228672962546ae19e24076d2a30
+    m_Address: Assets/_Aura/Audio/ThemeMusic/feilongTheme.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - feilongTrack
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: c0c5ac6e85780b74385c90a1da7d369f, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 1d1e63972cb863e4fa307b603ee4cad1, type: 2}
+    - {fileID: 11400000, guid: 6f3460773eab7d64bb60f1455583713d, type: 2}

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: dhalsimImage
+  m_EditorClassIdentifier: 
+  m_GroupName: dhalsimImage
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 470e377926e6c7a4582db27ea95c409e
+  m_SerializeEntries:
+  - m_GUID: 94643b4b25712894ca576a950f2811d3
+    m_Address: Assets/_Aura/UI/Images/sfDhalsim.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - dhalsimimg
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: c0c5ac6e85780b74385c90a1da7d369f, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 43830078cf5b3be40bcd06a02d101d14, type: 2}
+    - {fileID: 11400000, guid: 9394f37e4aa1d8d4ba9edff4dbebc9db, type: 2}

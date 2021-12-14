@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: cammyImage
+  m_EditorClassIdentifier: 
+  m_GroupName: cammyImage
+  m_Data:
+    m_SerializedData: []
+  m_GUID: a8908bee4dce0f542b041034b7df4274
+  m_SerializeEntries:
+  - m_GUID: ffc8cefae8b18004594e0c08d65c279f
+    m_Address: Assets/_Aura/UI/Images/sfCammy.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cammyimg
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: c0c5ac6e85780b74385c90a1da7d369f, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: bb17f890a6f77914d87074e68d7a9eae, type: 2}
+    - {fileID: 11400000, guid: 20cc002bd00aae4468022582b84cf2d8, type: 2}

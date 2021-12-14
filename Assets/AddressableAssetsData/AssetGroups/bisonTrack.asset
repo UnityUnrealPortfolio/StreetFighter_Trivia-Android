@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: bisonTrack
+  m_EditorClassIdentifier: 
+  m_GroupName: bisonTrack
+  m_Data:
+    m_SerializedData: []
+  m_GUID: e9e14df72f12b3142bc2c929ca848ba7
+  m_SerializeEntries:
+  - m_GUID: 02e25511374267844bf042c5226122d1
+    m_Address: Assets/_Aura/Audio/ThemeMusic/bisonTheme.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - bisonTrack
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: c0c5ac6e85780b74385c90a1da7d369f, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 7898f49b48f496d4cb414127575d5112, type: 2}
+    - {fileID: 11400000, guid: 784d4f40b7fb0c2479289bc5756201a6, type: 2}

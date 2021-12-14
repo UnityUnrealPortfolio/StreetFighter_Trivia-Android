@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: akumaTrack
+  m_EditorClassIdentifier: 
+  m_GroupName: akumaTrack
+  m_Data:
+    m_SerializedData: []
+  m_GUID: aba7c92a266aca1489b8ae52443647d0
+  m_SerializeEntries:
+  - m_GUID: e21fd45f2f2f3e64baea17ce1b68bfc1
+    m_Address: Assets/_Aura/Audio/ThemeMusic/akumaTheme.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - akumaTrack
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: c0c5ac6e85780b74385c90a1da7d369f, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 61594780dc5b15545a544a1b70d3be2e, type: 2}
+    - {fileID: 11400000, guid: 6154056fe6280a84fa04d9f6f12e8e99, type: 2}

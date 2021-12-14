@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: cammyTrack
+  m_EditorClassIdentifier: 
+  m_GroupName: cammyTrack
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 7b2385ac9b65a654099ba45213c25543
+  m_SerializeEntries:
+  - m_GUID: 0d7f632461d88f344bfffdef67a9cb32
+    m_Address: Assets/_Aura/Audio/ThemeMusic/cammyTheme.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cammyTrack
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: c0c5ac6e85780b74385c90a1da7d369f, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: b31c5e4f7f63ddb4badd0d60ed067a7a, type: 2}
+    - {fileID: 11400000, guid: ae73f2c65047f4d40a106cf8da246981, type: 2}

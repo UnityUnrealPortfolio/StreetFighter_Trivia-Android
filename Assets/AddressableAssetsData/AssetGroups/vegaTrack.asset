@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: vegaTrack
+  m_EditorClassIdentifier: 
+  m_GroupName: vegaTrack
+  m_Data:
+    m_SerializedData: []
+  m_GUID: dd68e856b01b2524b83d5dcf15c069c9
+  m_SerializeEntries:
+  - m_GUID: 71428d83d4c3cc6479baf46863d66dd2
+    m_Address: Assets/_Aura/Audio/ThemeMusic/vegaTheme.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - vegaTrack
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: c0c5ac6e85780b74385c90a1da7d369f, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 6147227c72db15b438144c5721e6d973, type: 2}
+    - {fileID: 11400000, guid: 40e124d128da8444e8da056ccdfb62c0, type: 2}

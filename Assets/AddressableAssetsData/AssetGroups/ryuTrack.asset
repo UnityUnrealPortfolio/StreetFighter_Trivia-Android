@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: ryuTrack
+  m_EditorClassIdentifier: 
+  m_GroupName: ryuTrack
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 92c2181fc0704cb45bc30f5c87d9e616
+  m_SerializeEntries:
+  - m_GUID: c0e636b26aaf29e4f8a5a1972f535970
+    m_Address: Assets/_Aura/Audio/ThemeMusic/ryuTheme.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ryuTrack
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: c0c5ac6e85780b74385c90a1da7d369f, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 4ef655af4b0e6714f8046908977a7851, type: 2}
+    - {fileID: 11400000, guid: 4cb84a650d81793478a7a99c3ed88c3f, type: 2}

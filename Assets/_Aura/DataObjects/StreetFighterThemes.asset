@@ -1,0 +1,219 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 09b66fd840100ea4a8592c48cf1b466a, type: 3}
+  m_Name: StreetFighterThemes
+  m_EditorClassIdentifier: 
+  themes:
+  - name: Akuma
+    BackgroundImage:
+      m_AssetGUID: b6bc136de69ce2f49b1e2cb28df190a8
+      m_SubObjectName: sfAkuma
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+    themeMusic:
+      m_AssetGUID: e21fd45f2f2f3e64baea17ce1b68bfc1
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - name: Balrog
+    BackgroundImage:
+      m_AssetGUID: f41838381930a244da02682b07f38a89
+      m_SubObjectName: sfBalrog
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+    themeMusic:
+      m_AssetGUID: 9fc0b1fc39ae8a4408fe59d60f3304fe
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - name: M.Bison
+    BackgroundImage:
+      m_AssetGUID: 80ab44e2e248f0f40a187c776d9247b3
+      m_SubObjectName: sfBison
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+    themeMusic:
+      m_AssetGUID: 02e25511374267844bf042c5226122d1
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - name: Blanka
+    BackgroundImage:
+      m_AssetGUID: 8c9b5a94bffddeb49acdc329ed4843b5
+      m_SubObjectName: sfBlanka
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+    themeMusic:
+      m_AssetGUID: ce12ef74eebda0640a1e6b318e248167
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - name: Cammy
+    BackgroundImage:
+      m_AssetGUID: ffc8cefae8b18004594e0c08d65c279f
+      m_SubObjectName: sfCammy
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+    themeMusic:
+      m_AssetGUID: 0d7f632461d88f344bfffdef67a9cb32
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - name: Chun Li
+    BackgroundImage:
+      m_AssetGUID: 04635a4c3606b4746a962bfa7349e0ba
+      m_SubObjectName: sfChunli
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+    themeMusic:
+      m_AssetGUID: 6e766dabe6d981a428d10809e1b6b5b1
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - name: Dee Jay
+    BackgroundImage:
+      m_AssetGUID: 0b598da29e5033e43a69fe7a262a564f
+      m_SubObjectName: sfDeeJay
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+    themeMusic:
+      m_AssetGUID: 7b7e793ede889bd40b09c5b50d8a5468
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - name: Dhalsim
+    BackgroundImage:
+      m_AssetGUID: 94643b4b25712894ca576a950f2811d3
+      m_SubObjectName: sfDhalsim
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+    themeMusic:
+      m_AssetGUID: 0019d556f853548439cdb6d3766d36fb
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - name: E.Honda
+    BackgroundImage:
+      m_AssetGUID: 7dbee5316daa18c42b7b1e3dd18f3d96
+      m_SubObjectName: sfEhonda
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+    themeMusic:
+      m_AssetGUID: 56112917340b58d4ab5b78b9a3acb86d
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - name: Feilong
+    BackgroundImage:
+      m_AssetGUID: 75f8fabf5076adf41b0950b5f523d6e1
+      m_SubObjectName: sfFeilong
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+    themeMusic:
+      m_AssetGUID: 81a67228672962546ae19e24076d2a30
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - name: Guile
+    BackgroundImage:
+      m_AssetGUID: 4b88c1982b6441045b0c882c8ef9f497
+      m_SubObjectName: sfGuile
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+    themeMusic:
+      m_AssetGUID: a24de77b7b14f23498960f12a50a6a96
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - name: Ken
+    BackgroundImage:
+      m_AssetGUID: 9dc8fb5ff11efbf4a951753f1414f5af
+      m_SubObjectName: sfKen
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+    themeMusic:
+      m_AssetGUID: 7a683345f4a17e44a99e4e2c6ccf0fb6
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - name: Ryu
+    BackgroundImage:
+      m_AssetGUID: c303f064c30f7df41b188c69ecddb034
+      m_SubObjectName: sfRyuDark
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+    themeMusic:
+      m_AssetGUID: c0e636b26aaf29e4f8a5a1972f535970
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - name: Sagat
+    BackgroundImage:
+      m_AssetGUID: 84413c679e9c67047a0665c6eace6a65
+      m_SubObjectName: sfSagat
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+    themeMusic:
+      m_AssetGUID: 09470afb281a1a544a932b5d29278ce2
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - name: T.Hawk
+    BackgroundImage:
+      m_AssetGUID: c97ed04678ec3214c89bef74ef8c5e56
+      m_SubObjectName: sfThawk
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+    themeMusic:
+      m_AssetGUID: 78e68a3aa1d35f840b25b4f5aad21331
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - name: Vega
+    BackgroundImage:
+      m_AssetGUID: c54a85b448cf6fa479e843a333392323
+      m_SubObjectName: sfVega
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+    themeMusic:
+      m_AssetGUID: 71428d83d4c3cc6479baf46863d66dd2
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - name: Zangief
+    BackgroundImage:
+      m_AssetGUID: 0cac607a07bd43a46b0e499886c2f1f5
+      m_SubObjectName: sfZangief
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+    themeMusic:
+      m_AssetGUID: fe13e2d5ed288c24b9252464a85da341
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0

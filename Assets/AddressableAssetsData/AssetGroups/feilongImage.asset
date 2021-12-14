@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: feilongImage
+  m_EditorClassIdentifier: 
+  m_GroupName: feilongImage
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 091d03e29e2f85f418956e7d6dd929f5
+  m_SerializeEntries:
+  - m_GUID: 75f8fabf5076adf41b0950b5f523d6e1
+    m_Address: Assets/_Aura/UI/Images/sfFeilong.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - feilongimg
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: c0c5ac6e85780b74385c90a1da7d369f, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 8992958eac3eaf44f8c1a39071499f71, type: 2}
+    - {fileID: 11400000, guid: b861f84211633be45b39612b393c6270, type: 2}
